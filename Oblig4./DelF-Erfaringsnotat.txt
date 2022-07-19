@@ -1,0 +1,8 @@
+Hvordan var det å løse denne oppgaven individuelt? 
+   - Ganske mye arbeid å gjøre oppgaven individuelt
+
+Hva er fordelene og ulempene med å løse oppgaver i team?
+    - En klar fordel jeg merket, var at jeg kunne jobbe når jeg selv ville. En annen ting var at all koden jeg skrev sparte meg
+    for mye tid ved å kanskje måtte forstå andre sin kode(hvis jeg hadde løst oppgaven i en grupep). 
+    Problemene var at jeg savnet noen å diskutere løsninger sammen med. Tror koden kunne vært bedre og enklere skrevet hvis jeg hadde samarbeidet med noen
+    
